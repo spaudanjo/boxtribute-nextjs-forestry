@@ -5,7 +5,7 @@ hero_image: "../static/alfons-taekema-bali.jpg"
 title: Bali —body, mind & soul
 
 ---
-The term **bristlecone** pine covers three species of pine tree (family Pinaceae, genus Pinus, subsection Balfourianae). All three species are long-lived and highly resilient to harsh weather and bad soils. One of the three species, Pinus longaeva, is among the longest-lived life forms on Earth. The oldest Pinus longaeva is more than 5,000 years old,\[1\] making it the oldest known individual of any species.
+The term **bristlecone** pine covers three [species](https://en.wikipedia.org/wiki/Species) of pine tree (family Pinaceae, genus Pinus, subsection Balfourianae). All three species are long-lived and highly resilient to harsh weather and bad soils. One of the three species, Pinus longaeva, is among the longest-lived life forms on Earth. The oldest Pinus longaeva is more than 5,000 years old,\[1\] making it the oldest known individual of any species.
 
 ![bali-monkey](../static/mahkeo-monkey.jpg)
 
